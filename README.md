@@ -1,24 +1,7 @@
 
 
 
-<h2 align="left">Skills:</h2>
 
-###
-
-<img align="right" height="150" src="https://c.tenor.com/t-iqJ8UAVfgAAAAC/corgi-jump.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-</div>
-
-###
-
-<br clear="both">
 
 <h2 align="left">:)</h2>
 
