@@ -30,6 +30,6 @@ Hey there! I'm **Prieyan MN**, a full-stack developer focused on **backend devel
 
 ---
 
-> ⚡ "Not your regular first-year dev. I ship, I scale, and I don't wait for permission."
+> ⚡ "Not your regular dev. I ship, I scale, and I don't wait for permission."
 
 
