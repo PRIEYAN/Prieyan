@@ -30,7 +30,5 @@ Hey there! I'm **Prieyan MN**, a full-stack developer focused on **backend devel
 
 ---
 
-> ⚡ "Not your regular dev. I ship, I scale, and I don't wait for permission."
->"MarketYourOwnProduct
-> "
+> "I build Products"
 
