@@ -1,4 +1,4 @@
-# 👨‍💻 Prieyan MN
+# Prieyan MN
 
 > Backend Developer | Cloud Enthusiast | Linux Wizard | 
 
@@ -7,7 +7,7 @@ Hey there! I'm **Prieyan MN**, a full-stack developer focused on **backend devel
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 | Domain        | Tools & Tech |
 |--------------|--------------|
