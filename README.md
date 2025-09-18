@@ -1,6 +1,6 @@
 # Prieyan MN
 
-> Backend Developer | Cloud Enthusiast | Linux Wizard | 
+> Backend Developer| MobileApp Developer | Cloud Enthusiast | Linux Wizard | 
 
 Hey there! I'm **Prieyan MN**, a full-stack developer focused on **backend development**, cloud-native applications, and real-time systems. I build stuff that works — fast, scalable, and maintainable.
 
