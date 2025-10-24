@@ -49,4 +49,6 @@ Hey there! I'm **Prieyan MN**, a full-stack developer focused on **backend devel
 
 
 > "I build Products"
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=prieyan&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/SHYAMSUNDAR2396)
 
