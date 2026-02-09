@@ -1,6 +1,6 @@
 # Prieyan MN
 
-> Backend Developer| Linux Adminstrator | MobileApp Developer | Cloud Enthusiast | Web3 |
+> Backend Developer| Linux Adminstrator | MobileApp Developer | Cloud Enthusiast | Web3 | Blockchain
 
 Hey there! I'm **Prieyan MN**, a full-stack developer focused on **backend development**, cloud-native applications, and real-time systems. I build stuff that works — fast, scalable, and maintainable.
 
