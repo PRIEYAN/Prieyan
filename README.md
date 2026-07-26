@@ -31,32 +31,14 @@ Battery       : 100% [Powered by Coffee]
 </table>
 
 
----
-
-<div align="center">
-  
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prieyan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
 
 ---
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prieyan&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=F8D866&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=prieyan&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=F8D866&area=true&hide_border=true)
 
 </div>
-
----
-
-##  Connect With Me
-
--  [GitHub](https://github.com/PRIEYAN)
--  [LinkedIn](https://linkedin.com/in/prieyanmn2007)
--  [Instagram](https://instagram.com/prie.deb)
--  Open to freelance gigs / collabs / backend mentoring
-
----
 
 
 
