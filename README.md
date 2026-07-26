@@ -1,10 +1,6 @@
 # Prieyan MN
 
-> Backend Developer| Linux Adminstrator | MobileApp Developer | Cloud Enthusiast | Web3 | Blockchain
-
-Hey there! I'm **Prieyan MN**, a full-stack developer focused on **backend development**, cloud-native applications, and real-time systems. I build stuff that works — fast, scalable, and maintainable.
-
-
+> I use Arch btw !
 ---
 
 <table>
@@ -53,12 +49,12 @@ Battery       : 100% [Powered by Coffee]
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
-- 📦 [GitHub](https://github.com/PRIEYAN)
-- 💼 [LinkedIn](https://linkedin.com/in/prieyanmn2007)
-- 📸 [Instagram](https://instagram.com/prie.deb)
-- 💬 Open to freelance gigs / collabs / backend mentoring
+-  [GitHub](https://github.com/PRIEYAN)
+-  [LinkedIn](https://linkedin.com/in/prieyanmn2007)
+-  [Instagram](https://instagram.com/prie.deb)
+-  Open to freelance gigs / collabs / backend mentoring
 
 ---
 
