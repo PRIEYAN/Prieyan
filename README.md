@@ -7,17 +7,32 @@ Hey there! I'm **Prieyan MN**, a full-stack developer focused on **backend devel
 
 ---
 
-## Tech Stack
+<table>
+<tr>
+<td width="220" align="center">
 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXU4bGZodjN6d3BoczBjOHZsN2J5d3p2NHNuZmV4ODB1bml0ejlkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YfIqRqgD6HxsPTIwfg/giphy.gif" width="180" style="border-radius: 20px;" alt="gif" />
 
-| Domain        | Tools & Tech |
-|--------------|--------------|
-| **Languages** | Python, JavaScript (Node.js), C++, Java |
-| **Backend**   | Flask, Express.js, Firebase Functions,Golang |
-| **Database**  | MongoDB Atlas, DynamoDB, Firestore, Cassandra (for real-time apps) |
-| **Mobile App**| React Native |
-| **Cloud**     | AWS Lambda, API Gateway, Firebase Hosting |
-| **DevOps**    | Linux Admin, Bash|
+</td>
+<td>
+
+```
+PRIEYAN MN
+----------
+Email         : prieyanmn@gmail.com
+LinkedIn      : prieyanmn (linkedin.com/in/prieyanmn2007)
+X             : prieyanmn (x.com/prieyanmn)
+Instagram     : prie.aur (instagram.com/prie.aur)
+Kernel        : Linux-LTS 19.0.67
+Specification : Fullstack, Web3, ML, DevOps, DSA, SystemDesign, Cloud
+Packages      : AWS, GCS, Firefox, Linux, Bash, Oracle
+Theme         : Pure Black [everything else is a bug]
+Battery       : 100% [Powered by Coffee]
+```
+
+</td>
+</tr>
+</table>
 
 
 ---
@@ -51,5 +66,5 @@ Hey there! I'm **Prieyan MN**, a full-stack developer focused on **backend devel
 
 > "I build Products, not scrap!"
   
-[![Profile Views](https://komarev.com/ghpvc/?username=prieyan&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/SHYAMSUNDAR2396)
+[![Stakers](https://komarev.com/ghpvc/?username=prieyan&color=blue&style=flat-circle&label=Profile+Views)](https://github.com/prieyan)
 
