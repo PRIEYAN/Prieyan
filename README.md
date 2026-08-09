@@ -36,7 +36,7 @@ Battery       : 100% [Powered by Coffee]
 
 <div align="center">
   
-![](https://github-readme-activity-graph.vercel.app/graph?username=prieyan&bg_color=0D1117&color=FFFFFF&line=F85D7F&point=F8D866&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=prieyan&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -44,5 +44,4 @@ Battery       : 100% [Powered by Coffee]
 
 > "I build Products, not scrap!"
   
-[![Stakers](https://komarev.com/ghpvc/?username=prieyan&color=blue&style=flat-circle&label=Profile+Views)](https://github.com/prieyan)
-
+![](https://komarev.com/ghpvc/?username=prieyan&style=flat-square&color=grey)
