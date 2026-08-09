@@ -16,14 +16,14 @@
 PRIEYAN MN
 ----------
 Email         : prieyanmn@gmail.com
-LinkedIn      : prieyanmn (linkedin.com/in/prieyanmn2007)
+LinkedIn      : prieyanmn (linkedin.com/in/prieyanmn)
 X             : prieyanmn (x.com/prieyanmn)
 Instagram     : prie.aur (instagram.com/prie.aur)
 Kernel        : Linux-LTS 19.0.67
 Specification : Fullstack, Web3, ML, DevOps, DSA, SystemDesign, Cloud
 Packages      : AWS, GCS, Firefox, Linux, Bash, Oracle
-Theme         : Pure Black [everything else is a bug]
-Battery       : 100% [Powered by Coffee]
+Theme         : Pure Black [Anything rather than this is 6 7]
+Battery       : 100% [I won't please dwag]
 ```
 
 </td>
