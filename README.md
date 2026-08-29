@@ -22,8 +22,8 @@ Instagram     : prie.aur (instagram.com/prie.aur)
 Kernel        : Linux-LTS 19.0.67
 Specification : Fullstack, Web3, ML, DevOps, DSA, SystemDesign, Cloud
 Packages      : AWS, GCS, Firefox, Linux, Bash, Oracle
-Theme         : Pure Black [Anything rather than this is 6 7]
-Battery       : 100% [I won't please dwag]
+Theme         : Pure Black [Cuz it runs faster ig]
+Battery       : 67% [I don't know it's dope]
 ```
 
 </td>
