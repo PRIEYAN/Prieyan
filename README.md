@@ -7,7 +7,7 @@
 <tr>
 <td width="220" align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWx6YW51eXhhbnVxeTlldmVqcW54NmY2NHY5a2ppbTQxeTI0aGdnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UH8p44pf5VNXa/giphy.gif" width="200" style="border-radius: 15px;" alt="gif" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2YzZWVmNnA2bGdubWdrNGhzbGtxN2VmZmF4dDNqeno5ZXowZTh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1USKMDPjuH4ovL7J5h/giphy.gif" width="200" style="border-radius: 15px;" alt="gif" />
 
 </td>
 <td>
