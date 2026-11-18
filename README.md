@@ -31,17 +31,6 @@ Battery       : 67% [I don't know it's dope]
 </table>
 
 
-
----
-
-<div align="center">
-  
-![](https://github-readme-activity-graph.vercel.app/graph?username=prieyan&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true)
-
-</div>
-
-
-
 > "I build Products, not scrap!"
   
 ![](https://komarev.com/ghpvc/?username=prieyan&style=flat-square&color=grey)
